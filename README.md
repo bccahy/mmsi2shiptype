@@ -1,0 +1,2 @@
+# mmsi2shiptype
+mm
